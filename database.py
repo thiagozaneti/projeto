@@ -1,0 +1,42 @@
+times = {
+    "Palmeiras": [
+        {"id": 1,"nome": "Weverton", "idade": 35, "posicao": "Goleiro"},
+        {"id": 2,"nome": "Mayke", "idade": 25, "posicao": "Lateral-direito"},
+        {"id": 3,"nome": "Luan", "idade": 28, "posicao": "Zagueiro"},
+        {"id": 4,"nome": "Gustavo Gómez", "idade": 29, "posicao": "Zagueiro"},
+        {"id": 5,"nome": "Piquerez", "idade": 23, "posicao": "Lateral-esquerdo"},
+        {"id": 6,"nome": "Danilo", "idade": 31, "posicao": "Volante"},
+        {"id": 7,"nome": "Zé Rafael", "idade": 28, "posicao": "Volante"},
+        {"id": 8,"nome": "Raphael Veiga", "idade": 27, "posicao": "Meia"},
+        {"id": 9,"nome": "Dudu", "idade": 30, "posicao": "Atacante"},
+        {"id": 10,"nome": "Rony", "idade": 27, "posicao": "Atacante"},
+        {"id": 11,"nome": "Endrick", "idade": 16, "posicao": "Atacante"},
+    ],
+    "Corinthians": [
+        {"id": 12,"nome": "Cássio", "idade": 35, "posicao": "Goleiro"},
+        {"id": 13,"nome": "Fagner", "idade": 33, "posicao": "Lateral-direito"},
+        {"id": 14,"nome": "Gil", "idade": 34, "posicao": "Zagueiro"},
+        {"id": 15,"nome": "Balbuena", "idade": 31, "posicao": "Zagueiro"},
+        {"id": 16,"nome": "Fábio Santos", "idade": 37, "posicao": "Lateral-esquerdo"},
+        {"id": 17,"nome": "Ramiro", "idade": 28, "posicao": "Volante"},
+        {"id": 18,"nome": "Du Queiroz", "idade": 23, "posicao": "Volante"},
+        {"id": 19,"nome": "Renato Augusto", "idade": 35, "posicao": "Meia"},
+        {"id": 20,"nome": "Adson", "idade": 23, "posicao": "Atacante"},
+        {"id": 21,"nome": "Jô", "idade": 35, "posicao": "Atacante"},
+        {"id": 22,"nome": "Yuri Alberto", "idade": 21, "posicao": "Atacante"},
+    ],
+    "Flamengo": [
+        {"id": 23,"nome": "Santos", "idade": 37, "posicao": "Goleiro"},
+        {"id": 24,"nome": "Rodinei", "idade": 31, "posicao": "Lateral-direito"},
+        {"id": 25,"nome": "David Luiz", "idade": 35, "posicao": "Zagueiro"},
+        {"id": 26,"nome": "Léo Pereira", "idade": 25, "posicao": "Zagueiro"},
+        {"id": 27,"nome": "Filipe Luís", "idade": 37, "posicao": "Lateral-esquerdo"},
+        {"id": 28,"nome": "Willian Arão", "idade": 30, "posicao": "Volante"},
+        {"id": 29,"nome": "João Gomes", "idade": 21, "posicao": "Volante"},
+        {"id": 30,"nome": "Everton Ribeiro", "idade": 33, "posicao": "Meia"},
+        {"id": 31,"nome": "Arrascaeta", "idade": 28, "posicao": "Meia"},
+        {"id": 32,"nome": "Gabigol", "idade": 26, "posicao": "Atacante"},
+        {"id": 33,"nome": "Pedro", "idade": 25, "posicao": "Atacante"},
+    ]}
+
+campeonato = {"nome": "Paulistão", "times": times}
