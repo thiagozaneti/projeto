@@ -1,0 +1,46 @@
+# Gerenciador de Times e Campeonatos
+
+Este script Python permite gerenciar times de futebol e campeonatos. Ele fornece várias funcionalidades, incluindo visualização de times e jogadores, atualização de informações, exclusão de times e jogadores, além de adição de novos times e jogadores.
+
+## Funções Disponíveis
+
+### Gerenciamento de Times
+
+1. **Visualizar Times**
+    - Mostra todos os times atualmente registrados, juntamente com seus jogadores.
+
+2. **Atualizar Time**
+    - Permite atualizar as informações de um jogador existente em um time, como nome, idade ou posição.
+
+3. **Deletar Time**
+    - Remove um time existente do registro.
+
+4. **Cadastrar Novo Time**
+    - Adiciona um novo time ao registro.
+
+5. **Deletar Jogador**
+    - Remove um jogador existente de um time.
+
+6. **Cadastrar Novo Jogador**
+    - Adiciona um novo jogador a um time existente.
+
+### Gerenciamento de Campeonatos
+
+1. **Adicionar Campeonato**
+    - Registra um novo campeonato no sistema.
+
+2. **Adicionar Time nos Campeonatos**
+    - Adiciona um time existente a um campeonato registrado.
+
+## Como Usar
+
+1. Clone ou baixe o repositório deste código.
+
+2. Certifique-se de ter o Python instalado em seu sistema.
+
+3. Execute o script Python `main.py`.
+
+4. Siga as instruções apresentadas no console para usar as diferentes funcionalidades disponíveis.
+
+
+
