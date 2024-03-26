@@ -90,7 +90,7 @@ def adicionar_campeonato(campeonato):
         nome_campeonato = input("Digite o nome do campeonato: ")
         campeonato[nome_campeonato] = []
         print("Campeonato adicionado com sucesso.")
-        print(campeonato)
+        pprint.pprint(campeonato)
     except ValueError:
         print("Por favor, insira um nome válido.")
 
@@ -100,6 +100,6 @@ def adicionar_time_camp(campeonato):
         nome_time = input("Digite o nome do time: ")
         campeonato[nome_campeonato].append(nome_time)
         print("Time adicionado com sucesso.")
-        print(campeonato)
+        pprint.pprint(campeonato)
     except ValueError:
         print("Por favor, insira um nome válido.")

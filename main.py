@@ -8,7 +8,7 @@ from lib.funcoes import (
     cadastrar_novo_jogador,
     cadastrar_novo_time,
     adicionar_campeonato,
-    adicionar_time_camp,
+    adicionar_time_camp
 )
 
 if __name__ == "__main__":
