@@ -6,6 +6,7 @@ def visualizar_jogadores(times):
             print("jogadores")
             print(f"Nome: {jogador['nome']}, Idade: {jogador['idade']}, Posição: {jogador['posicao']}")
 
+
         
 def visualizar_times(times):
     for time, jogadores in times.items():
